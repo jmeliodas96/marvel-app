@@ -1,6 +1,6 @@
 
-# Demo Post App 
-Awesome app for shown a list of posts, using [Angular](https://angular.io/).
+# Demo Marvel App 
+Awesome app for shown a list of characters from Marvel API, using [Angular](https://angular.io/).
 
 
 
@@ -12,7 +12,7 @@ Awesome app for shown a list of posts, using [Angular](https://angular.io/).
 
 ##### Cloning the project:
 ```
-git clone https://github.com/Jmm9601/post-application.git
+git clone  git@github.com:jmeliodas96/marvel-app.git
 ```
 
 
