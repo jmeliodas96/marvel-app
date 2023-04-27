@@ -5,8 +5,8 @@
 export const environment = {
   production: false,
   marvelURL: 'https://gateway.marvel.com',
-  publicApiKey: '80fa405d9ebb88ea51bf4ab654c85905',
-  privateApiKey: 'b8325f20ea87220de7bc380dc2bf0540421d3642',
+  publicApiKey: '', //Use your own api publick key from Marvel API
+  privateApiKey: '', //Use your own private key from Marvel API
 };
 
 /*

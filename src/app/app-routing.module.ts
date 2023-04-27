@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { PostComponent } from './post/character.component';
+import { PostComponent } from './character/character.component';
 
 // Routing configuration
 const routes: Routes = [
