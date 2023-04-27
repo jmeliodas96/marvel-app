@@ -1,0 +1,22 @@
+.footer-wrapper{
+         font-size: 0.7rem;
+}
+
+
+.powered-by-james{
+         display: -webkit-box;
+         display: -webkit-flex;
+         display: -ms-flexbox;
+         display: flex;
+         -webkit-box-pack: end;
+         -webkit-justify-content: flex-end;
+         -ms-flex-pack: end;
+         justify-content: flex-end;
+         padding: 0 5px 5px;
+         page-break-before: avoid;
+         -webkit-column-break-before: avoid;
+         -moz-column-break-before: avoid;
+         break-before: avoid;
+         font-family: system-ui;
+         height: 14px;
+}
